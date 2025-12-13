@@ -62,7 +62,7 @@
     "mini-svg-data-uri": "^1.4.4",
     "minisearch": "^7.1.1",
     "natural": "^8.0.1",
-    "next": "^14.2.14",
+    "next": "^14.2.35",
     "p-map": "^7.0.3",
     "p-retry": "^6.2.1",
     "playwright": "^1.50.1",
