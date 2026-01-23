@@ -58,7 +58,7 @@
     "image-webpack-loader": "^8.1.0",
     "immer": "^10.1.1",
     "json5": "^2.2.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mini-svg-data-uri": "^1.4.4",
     "minisearch": "^7.1.1",
     "natural": "^8.0.1",
